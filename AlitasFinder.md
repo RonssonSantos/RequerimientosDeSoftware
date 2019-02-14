@@ -39,5 +39,5 @@ El sistema se enfocara a encontrar la mejor promocion de algun bar(o proveedor d
 
 A continuacion se presentan los *Casos de Uso*
 
-![Relacion de los casos de uso](/imagenes/casosDeUso.jpg)
+![Relacion de los casos de uso](https://github.com/RonssonSantos/RequerimientosDeSoftware/blob/master/casosdeUso.jpg)
 
