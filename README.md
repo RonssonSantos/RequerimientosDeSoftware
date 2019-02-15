@@ -9,7 +9,7 @@ Software Requirements of final proyect
 
 - Daniel Delfin
 
-- Raùl
+- Jóse Mendez
 
  proyecto : Encuentra tu Bar con AlitasFinder
  
