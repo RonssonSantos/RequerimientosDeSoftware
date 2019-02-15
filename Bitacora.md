@@ -1,4 +1,5 @@
 # Bitacora de trabajo
+---
 |Integrante(s)|Fecha|Acuerdos|
 |-----------|----------|---------|
 |Todos los integrantes|13/02/2019|Creacion del equipo|
